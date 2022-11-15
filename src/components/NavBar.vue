@@ -1,16 +1,18 @@
 <template>
+  <div class="navbar row pb-5 justify-content-start">
     <div class="col-1">
       <img class="menu" src="@/assets/icons/menu.svg"> 
     </div>
 
-    <div class="col-1">
+    <div class="col-sm-1">
       <h1>Gallery</h1>
     </div>
 
-    <nav class="col-sm-2 offset-8">
+    <nav class="col-sm-2 offset-sm-8">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </nav>
+  </div>
 </template>
 
 <style>
