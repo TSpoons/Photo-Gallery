@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgallery_app"]=self["webpackChunkgallery_app"]||[]).push([[443],{6889:function(a,e,r){r.r(e),r.d(e,{default:function(){return p}});var n=r(3396);const s={class:"about row flex-grow-1"},t=(0,n._)("div",{class:"col h-100"},"This is the about page",-1),u=[t];function c(a,e){return(0,n.wg)(),(0,n.iD)("div",s,u)}var l=r(89);const o={},i=(0,l.Z)(o,[["render",c]]);var p=i}}]);
+//# sourceMappingURL=about.6cc9e9df.js.map
